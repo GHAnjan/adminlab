@@ -1,6 +1,0 @@
-harnessApiVersion: '1.0'
-type: SERVICE
-artifactType: DOCKER
-deploymentType: KUBERNETES
-description: Harness admin training 1
-helmVersion: V2
